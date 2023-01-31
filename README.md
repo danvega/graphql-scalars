@@ -8,4 +8,4 @@ We'll be creating a brand new Spring Boot 3 project which will include Spring fo
 
 Follow along as Dan Vega guides us through creating a GraphQL API with custom scalars!
 
-![YouTube](https://youtu.be/ooknmgr4WiA)
+[YouTube](https://youtu.be/ooknmgr4WiA)
